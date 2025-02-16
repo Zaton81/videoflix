@@ -1,0 +1,7 @@
+reflex==0.6.6.post3
+sqlalchemy==1.4.32
+requests==2.26.0
+pandas==1.3.3
+beautifulsoup4==4.12.0
+random==0.0.1  
+randomuser==1.0.1

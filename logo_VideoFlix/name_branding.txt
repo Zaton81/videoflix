@@ -1,0 +1,6 @@
+
+            Main text Font: Supermercado One
+            Slogan Text Font: Oswald
+            COLOR RGBA: rgba(180, 215, 253, 1.0)
+            COLOR HEX: #b4d7fd
+            
